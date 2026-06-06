@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/stars/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Estrelas" alt="Estrelas" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/forks/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&label=Forks" alt="Forks" /></a>
+  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/stars/theet07/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Estrelas" alt="Estrelas" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/theet07"><img src="https://img.shields.io/github/followers/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Seguidores" alt="Seguidores" /></a>
 </p>
@@ -101,7 +99,7 @@
 <h2 align="center">Contribuições & Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de theet07" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de theet07" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theet07&theme=dark&background=0d1117&fire=ffaa00&ring=ffffff&title=ffffff" alt="Streak do GitHub" />
 </p>
