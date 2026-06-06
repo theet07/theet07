@@ -18,16 +18,16 @@
       <img src="./Sticker.png" width="100%" alt="Sticker" />
     </td>
     <td width="70%" valign="top">
-      <h3>Olá! Eu sou o Matheus dos Santos</h3>
+      <h3>Olá! Eu sou o Matheus :D</h3>
       <p>
-        Sou um desenvolvedor software fullstack que adora criar aplicações para resolver problemas do mundo real. 
-        No dia a dia, trabalho com Java, Spring Boot e PostgreSQL para construir backends robustos e seguros. 
-        À noite, desenvolvo interfaces web altamente customizáveis e interativas com React, Next.js e TypeScript, 
-        focando em UX/UI premium e estilização moderna.
+        Sou um desenvolvedor software fullstack, gosto de criar aplicações para resolver problemas do mundo real.
+        No dia a dia, trabalho com Java, Spring Boot e PostgreSQL para construir backends. 
+        Além disto, desenvolvo interfaces web customizáveis e interativas com React, Next.js e TypeScript,
+        focando em UX/UI agradável e estilização moderna.
       </p>
       <p>
-        Atualmente desenvolvendo o <b>Vynku</b>, uma plataforma de portfólio e customização de perfis para artistas brasileiros, 
-        e o <b>InkFlow</b>, um ecossistema de agendamento e gestão de clientes sob medida para estúdios de tatuagem.
+        Atualmente desenvolvendo o <b>Vynku</b>, uma plataforma de portfólio e customização de perfis para artistas brasileiros e amantes da estética., 
+        e o <b>InkFlow</b>, um ecossistema de agendamento e gestão de clientes sob medida para estúdios e tatuadores independentes.
       </p>
     </td>
   </tr>
@@ -46,7 +46,7 @@
         </li>
         <br />
         <li>
-          <b><img src="./brush.svg" width="16" height="16" align="center" /> InkFlow Frontend</b> — Um sistema de portfólio e agendamento interativo e elegante para estúdios de tatuagem e seus clientes.
+          <b><img src="./brush.svg" width="16" height="16" align="center" /> InkFlow Frontend</b> — Um sistema de portfólio e agendamento interativo para estúdios, tatuadores e seus clientes.
         </li>
         <br />
         <li>
