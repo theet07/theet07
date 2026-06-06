@@ -17,7 +17,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./Sticker.png" width="150" alt="Sticker" />
+      <img src="./Sticker.png" width="100%" alt="Sticker" />
     </td>
     <td width="70%" valign="top">
       <h3>Hey there! I'm Matheus dos Santos</h3>
@@ -61,7 +61,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./Sticker.jpg" width="120" alt="Sticker" />
+      <img src="./Sticker.jpg" width="100%" alt="Sticker" />
     </td>
   </tr>
 </table>
