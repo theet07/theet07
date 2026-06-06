@@ -99,7 +99,9 @@
 <h2 align="center">Contribuições & Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de theet07" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de theet07" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theet07&theme=dark&background=0d1117&fire=ffaa00&ring=ffffff&title=ffffff" alt="Streak do GitHub" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theet07&theme=react-dark" alt="Gráfico de Atividade" />
 </p>
