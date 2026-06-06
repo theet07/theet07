@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/stars/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/stars/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Estrelas" alt="Estrelas" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/forks/theet07?style=for-the-badge&color=0d1117&labelColor=161b22" alt="Forks" /></a>
+  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/forks/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&label=Forks" alt="Forks" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/followers/theet07?style=for-the-badge&color=0d1117&labelColor=161b22" alt="Followers" /></a>
+  <a href="https://github.com/theet07"><img src="https://img.shields.io/github/followers/theet07?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Seguidores" alt="Seguidores" /></a>
 </p>
 
 ---
 
-<h2 align="center">Know About Me</h2>
+<h2 align="center">Sobre Mim</h2>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -20,16 +20,16 @@
       <img src="./Sticker.png" width="100%" alt="Sticker" />
     </td>
     <td width="70%" valign="top">
-      <h3>Hey there! I'm Matheus dos Santos</h3>
+      <h3>Olá! Eu sou o Matheus dos Santos</h3>
       <p>
-        I'm a fullstack software developer who loves building applications that solve real-world problems. 
-        By day, I work with Java, Spring Boot, and PostgreSQL to build robust and secure backends. By night, 
-        I build highly-customizable and interactive web interfaces with React, Next.js, and TypeScript, 
-        focusing on premium UX/UI and modern styling.
+        Sou um desenvolvedor software fullstack que adora criar aplicações para resolver problemas do mundo real. 
+        No dia a dia, trabalho com Java, Spring Boot e PostgreSQL para construir backends robustos e seguros. 
+        À noite, desenvolvo interfaces web altamente customizáveis e interativas com React, Next.js e TypeScript, 
+        focando em UX/UI premium e estilização moderna.
       </p>
       <p>
-        Currently developing <b>Vynku</b>, a profile customization and portfolio platform for Brazilian artists, 
-        and <b>InkFlow</b>, a scheduling and client management ecosystem tailored for tattoo studios.
+        Atualmente desenvolvendo o <b>Vynku</b>, uma plataforma de portfólio e customização de perfis para artistas brasileiros, 
+        e o <b>InkFlow</b>, um ecossistema de agendamento e gestão de clientes sob medida para estúdios de tatuagem.
       </p>
     </td>
   </tr>
@@ -37,26 +37,26 @@
 
 ---
 
-<h2 align="center">Top Projects (built to avoid manual labor)</h2>
+<h2 align="center">Principais Projetos (criados para automatizar processos)</h2>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="70%" valign="top">
       <ul>
         <li>
-          <b>📂 Vynku</b> — A SpaceHey/MySpace-inspired portfolio and profile customization space for Brazilian artists, featuring live preview editors, dynamic themes, and a modern dashboard.
+          <b><img src="./folder.svg" width="16" height="16" align="center" /> Vynku</b> — Uma plataforma de portfólio e customização de perfis inspirada no SpaceHey/MySpace para artistas brasileiros, com editores de visualização em tempo real, temas dinâmicos e um painel de controle moderno.
         </li>
         <br />
         <li>
-          <b>🖋️ InkFlow Frontend</b> — A beautiful, interactive frontend portfolio and scheduling system for tattoo studios and clients.
+          <b><img src="./brush.svg" width="16" height="16" align="center" /> InkFlow Frontend</b> — Um sistema de portfólio e agendamento interativo e elegante para estúdios de tatuagem e seus clientes.
         </li>
         <br />
         <li>
-          <b>⚙️ InkFlow Backend</b> — A scalable Java & Spring Boot REST API that handles authentication, scheduling, and admin workflows for the InkFlow ecosystem.
+          <b><img src="./server.svg" width="16" height="16" align="center" /> InkFlow Backend</b> — Uma API REST escalável em Java e Spring Boot que gerencia autenticação, agendamentos e fluxos administrativos para o ecossistema InkFlow.
         </li>
         <br />
         <li>
-          <b>🩹 InkFlow Care</b> — An aftercare guide and recovery tracking tool to help clients take care of their fresh tattoos.
+          <b><img src="./shield.svg" width="16" height="16" align="center" /> InkFlow Care</b> — Um guia de cuidados pós-tatuagem e ferramenta de acompanhamento para ajudar os clientes a cuidarem de suas novas tatuagens.
         </li>
       </ul>
     </td>
@@ -68,7 +68,7 @@
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="https://github.com/theet07" target="_blank">
@@ -91,17 +91,17 @@
 ---
 
 <p align="center">
-  <i>"Code is never finished. It only becomes slightly less terrible over time."</i>
+  <i>"O código nunca está pronto. Ele apenas se torna um pouco menos terrível com o tempo."</i>
 </p>
 
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+> Cada commit que eu faço é basicamente um pequeno e desesperado pedido de desculpas para o meu eu do futuro. Algum dia voltarei a esta base de código, olharei para o espaguete que escrevi e me perguntarei quem me deixou chegar perto de um teclado.
 
 ---
 
-<h2 align="center">Contributions & Stats</h2>
+<h2 align="center">Contribuições & Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="theet07's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theet07&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub de theet07" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theet07&theme=dark&background=0d1117&fire=ffaa00&ring=ffffff&title=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theet07&theme=dark&background=0d1117&fire=ffaa00&ring=ffffff&title=ffffff" alt="Streak do GitHub" />
 </p>
