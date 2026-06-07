@@ -121,7 +121,7 @@
     <tr>
       <td width="25%"><b>Banco de Dados</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Banco de Dados" />
+        <img src="https://skillicons.dev/icons?i=mssql,supabase" alt="Banco de Dados" />
       </td>
     </tr>
     <tr>
