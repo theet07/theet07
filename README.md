@@ -26,7 +26,7 @@
         focando em UX/UI agradável e estilização moderna.
       </p>
       <p>
-        Atualmente desenvolvendo o <b>Vynku</b>, uma plataforma de portfólio e customização de perfis para artistas brasileiros e amantes da estética., 
+        Atualmente desenvolvendo o <b>Vynku</b>, uma plataforma de portfólio e customização de perfis para artistas brasileiros e amantes da estética, 
         e o <b>InkFlow</b>, um ecossistema de agendamento e gestão de clientes sob medida para estúdios e tatuadores independentes.
       </p>
     </td>
@@ -92,7 +92,7 @@
   <i>"O código nunca está pronto. Ele apenas se torna um pouco menos terrível com o tempo."</i>
 </p>
 
-> Cada commit que eu faço é basicamente um pequeno e desesperado pedido de desculpas para o meu eu do futuro. Algum dia voltarei a esta base de código, olharei para o espaguete que escrevi e me perguntarei quem me deixou chegar perto de um teclado.
+> Cada commit que eu faço é basicamente um pequeno e desesperado pedido de desculpas para o meu eu do futuro. Algum dia voltarei a este código, olharei para o espaguete que escrevi e me perguntarei quem deixou eu chegar perto de um teclado.
 
 ---
 
