@@ -59,7 +59,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./Sticker2.gif" width="100%" alt="Sticker" />
+      <img src="./Sticker2.jpg" width="100%" alt="Sticker" />
     </td>
   </tr>
 </table>
