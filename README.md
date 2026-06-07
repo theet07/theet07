@@ -117,7 +117,7 @@
     <tr>
       <td width="25%"><b>Cloud & DevOps</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Cloud & DevOps" />
+        <img src="https://skillicons.dev/icons?i=git,github" alt="Cloud & DevOps" />
       </td>
     </tr>
   </tbody>
