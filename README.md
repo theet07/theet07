@@ -101,8 +101,8 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="left">Categoria</th>
-      <th align="left">Tecnologias e Ferramentas</th>
+      <th align="left" width="25%">Categoria</th>
+      <th align="left" width="75%">Tecnologias e Ferramentas<img src="./spacer.svg" width="1000" height="1" /></th>
     </tr>
   </thead>
   <tbody>
