@@ -96,12 +96,40 @@
 
 ---
 
-<h2 align="center">Contribuições & Estatísticas</h2>
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theet07&show_icons=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="Estatísticas do GitHub de theet07" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theet07&theme=dark&background=0d1117&fire=ffaa00&ring=ffffff&title=ffffff" width="100%" alt="Streak do GitHub" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theet07&theme=react-dark" width="100%" alt="Gráfico de Atividade" />
-</p>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Categoria</th>
+      <th align="left">Tecnologias e Ferramentas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="25%"><b>Front-end</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Front-end" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><b>Back-end</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Back-end" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><b>Banco de Dados</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Banco de Dados" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><b>Cloud & DevOps</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Cloud & DevOps" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
