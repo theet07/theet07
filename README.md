@@ -15,7 +15,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./Sticker.png" width="100%" alt="Sticker" />
+      <img src="./Sticker.gif" width="100%" alt="Sticker" />
     </td>
     <td width="70%" valign="top">
       <h3>Olá! Eu sou o Matheus :D</h3>
@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="center">Principais Projetos (criados para automatizar processos)</h2>
+<h2 align="center">Principais Projetos </h2>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
