@@ -78,10 +78,10 @@
 ---
 
 <p align="center">
-  <i>"O código nunca está pronto. Ele apenas se torna um pouco menos terrível com o tempo."</i>
+  <i>"O código nunca está pronto. Ele apenas fica um pouco menos terrível com o tempo."</i>
 </p>
 
-> Cada commit que eu faço é basicamente um pequeno e desesperado pedido de desculpas para o meu eu do futuro. Algum dia voltarei a este código, olharei para o espaguete que escrevi e me perguntarei quem deixou eu chegar perto de um teclado.
+> Cada commit que eu faço é basicamente um pequeno e triste pedido de desculpas para o meu eu do futuro. Algum dia irei voltar ao código, olharei para o espaguete que escrevi e me perguntarei quem deixou eu chegar perto de um teclado.
 
 ---
 
