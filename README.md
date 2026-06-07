@@ -18,7 +18,7 @@
       <img src="./Sticker.gif" width="100%" alt="Sticker" />
     </td>
     <td width="70%" valign="top">
-      <h3>Olá! Eu sou o Matheus :D</h3>
+      <h3>Olá! Me chamo Matheus :D</h3>
       <p>
         Sou um desenvolvedor software fullstack, gosto de criar aplicações para resolver problemas do mundo real.
         No dia a dia, trabalho com Java, Spring Boot e PostgreSQL para construir backends. 
