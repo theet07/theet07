@@ -21,7 +21,7 @@
       <h3>Olá! Me chamo Matheus :D</h3>
       <p>
         Sou um desenvolvedor software fullstack, gosto de criar aplicações para resolver problemas do mundo real.
-        No dia a dia, trabalho com Java, Spring Boot e PostgreSQL para construir backends. 
+        No dia a dia, trabalho com Java, Spring Boot e SQL Server para construir backends. 
         Além disto, desenvolvo interfaces web customizáveis e interativas com React, Next.js e TypeScript,
         focando em UX/UI agradável e estilização moderna.
       </p>
