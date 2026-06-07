@@ -109,7 +109,7 @@
     <tr>
       <td width="25%"><b>Banco de Dados</b></td>
       <td>
-        <img src="./sqlserver.svg" width="48" height="48" alt="SQL Server" />
+        <img src="./Microsoft_SQL_Server_icon.svg" width="48" height="48" alt="SQL Server" />
         &nbsp;
         <img src="https://skillicons.dev/icons?i=supabase" alt="Banco de Dados" />
       </td>
